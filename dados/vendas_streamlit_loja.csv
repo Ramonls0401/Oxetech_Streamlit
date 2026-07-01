@@ -1,0 +1,221 @@
+﻿data_venda,produto,categoria,cidade,vendedor,quantidade,preco_unitario,valor_total
+2026-03-04,Mouse,Acessórios,Recife,Bruno,1,76.0,76.0
+2026-01-23,Mouse,Acessórios,João Pessoa,Diego,6,68.0,408.0
+2026-02-25,Notebook,Eletrônicos,Recife,Eduarda,1,3500.0,3500.0
+2026-05-20,Notebook,Eletrônicos,Aracaju,Bruno,5,3500.0,17500.0
+2026-01-02,Webcam,Eletrônicos,Recife,Diego,5,285.0,1425.0
+2026-02-25,Mesa Escritório,Móveis,Salvador,Ana,3,750.0,2250.0
+2026-04-02,Mouse,Acessórios,Salvador,Eduarda,4,80.0,320.0
+2026-05-18,Cadeira Gamer,Móveis,Maceió,Diego,1,1080.0,1080.0
+2026-04-03,Mouse,Acessórios,João Pessoa,Bruno,5,76.0,380.0
+2026-03-16,Mouse,Acessórios,Maceió,Bruno,1,80.0,80.0
+2026-04-27,Mouse,Acessórios,Salvador,Bruno,4,76.0,304.0
+2026-03-10,Mesa Escritório,Móveis,Maceió,Eduarda,3,750.0,2250.0
+2026-02-11,Teclado,Acessórios,Aracaju,Diego,5,150.0,750.0
+2026-02-26,Cadeira Gamer,Móveis,Salvador,Ana,6,1020.0,6120.0
+2026-04-13,Monitor,Eletrônicos,Salvador,Ana,1,855.0,855.0
+2026-02-24,Monitor,Eletrônicos,Aracaju,Diego,5,855.0,4275.0
+2026-02-05,Webcam,Eletrônicos,Recife,Eduarda,2,285.0,570.0
+2026-04-20,Cadeira Gamer,Móveis,João Pessoa,Diego,6,1020.0,6120.0
+2026-05-11,Mesa Escritório,Móveis,Aracaju,Ana,2,750.0,1500.0
+2026-02-10,Notebook,Eletrônicos,Aracaju,Eduarda,1,3500.0,3500.0
+2026-04-30,Mouse,Acessórios,João Pessoa,Carla,4,72.0,288.0
+2026-05-18,Notebook,Eletrônicos,Salvador,Carla,6,3500.0,21000.0
+2026-02-10,Mouse,Acessórios,Aracaju,Ana,3,72.0,216.0
+2026-05-10,Cadeira Gamer,Móveis,Maceió,Carla,5,1200.0,6000.0
+2026-02-11,Monitor,Eletrônicos,João Pessoa,Eduarda,2,855.0,1710.0
+2026-05-06,Notebook,Eletrônicos,Maceió,Ana,5,3325.0,16625.0
+2026-01-15,Mesa Escritório,Móveis,Recife,Eduarda,3,750.0,2250.0
+2026-01-18,Mouse,Acessórios,João Pessoa,Bruno,1,72.0,72.0
+2026-05-21,Teclado,Acessórios,Recife,Carla,6,135.0,810.0
+2026-02-21,Headset,Acessórios,Salvador,Diego,2,187.0,374.0
+2026-04-26,Mesa Escritório,Móveis,Maceió,Bruno,4,637.5,2550.0
+2026-01-06,Monitor,Eletrônicos,João Pessoa,Eduarda,1,855.0,855.0
+2026-01-02,Monitor,Eletrônicos,Maceió,Ana,5,900.0,4500.0
+2026-03-26,Monitor,Eletrônicos,Maceió,Eduarda,1,900.0,900.0
+2026-02-24,Monitor,Eletrônicos,João Pessoa,Bruno,3,810.0,2430.0
+2026-04-15,Webcam,Eletrônicos,Recife,Ana,2,270.0,540.0
+2026-04-01,Mouse,Acessórios,Aracaju,Diego,6,72.0,432.0
+2026-01-26,Webcam,Eletrônicos,Maceió,Diego,6,300.0,1800.0
+2026-02-19,Mesa Escritório,Móveis,Recife,Eduarda,1,750.0,750.0
+2026-02-16,Webcam,Eletrônicos,Salvador,Diego,2,270.0,540.0
+2026-05-21,Monitor,Eletrônicos,Maceió,Ana,1,810.0,810.0
+2026-02-12,Notebook,Eletrônicos,Aracaju,Diego,1,3500.0,3500.0
+2026-01-16,Webcam,Eletrônicos,Recife,Diego,2,270.0,540.0
+2026-04-27,Notebook,Eletrônicos,Salvador,Diego,4,3325.0,13300.0
+2026-03-17,Webcam,Eletrônicos,Recife,Ana,2,300.0,600.0
+2026-01-15,Notebook,Eletrônicos,Maceió,Eduarda,6,3325.0,19950.0
+2026-02-10,Webcam,Eletrônicos,Maceió,Eduarda,5,255.0,1275.0
+2026-01-18,Mouse,Acessórios,Recife,Diego,2,80.0,160.0
+2026-05-29,Mouse,Acessórios,João Pessoa,Ana,5,80.0,400.0
+2026-05-25,Mouse,Acessórios,João Pessoa,Carla,4,68.0,272.0
+2026-03-03,Cadeira Gamer,Móveis,Salvador,Diego,2,1140.0,2280.0
+2026-04-28,Teclado,Acessórios,Salvador,Ana,6,142.5,855.0
+2026-05-25,Notebook,Eletrônicos,Maceió,Ana,4,2975.0,11900.0
+2026-02-03,Monitor,Eletrônicos,Salvador,Ana,5,855.0,4275.0
+2026-02-10,Monitor,Eletrônicos,Aracaju,Eduarda,3,855.0,2565.0
+2026-01-03,Cadeira Gamer,Móveis,João Pessoa,Carla,5,1020.0,5100.0
+2026-01-30,Mouse,Acessórios,Maceió,Eduarda,2,76.0,152.0
+2026-02-23,Teclado,Acessórios,Salvador,Bruno,3,142.5,427.5
+2026-03-06,Cadeira Gamer,Móveis,Maceió,Ana,5,1080.0,5400.0
+2026-01-01,Headset,Acessórios,Salvador,Bruno,3,220.0,660.0
+2026-05-22,Cadeira Gamer,Móveis,Aracaju,Eduarda,2,1080.0,2160.0
+2026-02-08,Notebook,Eletrônicos,João Pessoa,Ana,1,3500.0,3500.0
+2026-02-07,Mesa Escritório,Móveis,Aracaju,Bruno,5,637.5,3187.5
+2026-01-11,Notebook,Eletrônicos,Salvador,Bruno,3,3325.0,9975.0
+2026-04-01,Monitor,Eletrônicos,João Pessoa,Diego,6,900.0,5400.0
+2026-02-15,Teclado,Acessórios,Aracaju,Ana,2,150.0,300.0
+2026-04-16,Teclado,Acessórios,Recife,Carla,6,142.5,855.0
+2026-04-08,Teclado,Acessórios,Maceió,Diego,6,150.0,900.0
+2026-03-31,Monitor,Eletrônicos,Salvador,Bruno,2,810.0,1620.0
+2026-04-13,Monitor,Eletrônicos,Salvador,Carla,1,900.0,900.0
+2026-05-11,Mouse,Acessórios,Aracaju,Eduarda,3,76.0,228.0
+2026-03-08,Mesa Escritório,Móveis,Recife,Eduarda,1,750.0,750.0
+2026-04-22,Cadeira Gamer,Móveis,Salvador,Carla,1,1200.0,1200.0
+2026-01-30,Headset,Acessórios,Aracaju,Eduarda,5,187.0,935.0
+2026-04-22,Monitor,Eletrônicos,Maceió,Eduarda,3,900.0,2700.0
+2026-01-18,Monitor,Eletrônicos,Salvador,Eduarda,3,810.0,2430.0
+2026-03-18,Mesa Escritório,Móveis,João Pessoa,Carla,6,750.0,4500.0
+2026-03-17,Headset,Acessórios,João Pessoa,Bruno,3,198.0,594.0
+2026-02-14,Monitor,Eletrônicos,João Pessoa,Eduarda,4,810.0,3240.0
+2026-01-01,Cadeira Gamer,Móveis,Salvador,Carla,4,1020.0,4080.0
+2026-03-24,Monitor,Eletrônicos,Aracaju,Diego,4,765.0,3060.0
+2026-05-11,Webcam,Eletrônicos,Aracaju,Bruno,6,300.0,1800.0
+2026-03-27,Mouse,Acessórios,Maceió,Bruno,3,68.0,204.0
+2026-02-07,Cadeira Gamer,Móveis,Maceió,Ana,2,1200.0,2400.0
+2026-01-19,Monitor,Eletrônicos,Aracaju,Diego,4,765.0,3060.0
+2026-05-07,Monitor,Eletrônicos,Aracaju,Bruno,6,810.0,4860.0
+2026-01-28,Teclado,Acessórios,Aracaju,Bruno,6,150.0,900.0
+2026-04-29,Teclado,Acessórios,Maceió,Eduarda,6,127.5,765.0
+2026-02-04,Monitor,Eletrônicos,Aracaju,Eduarda,1,810.0,810.0
+2026-05-10,Mesa Escritório,Móveis,Aracaju,Eduarda,4,637.5,2550.0
+2026-04-26,Webcam,Eletrônicos,Salvador,Bruno,2,270.0,540.0
+2026-03-03,Cadeira Gamer,Móveis,Salvador,Diego,5,1080.0,5400.0
+2026-03-02,Mouse,Acessórios,Salvador,Carla,6,76.0,456.0
+2026-02-05,Mesa Escritório,Móveis,Recife,Bruno,5,750.0,3750.0
+2026-02-24,Headset,Acessórios,Maceió,Diego,6,220.0,1320.0
+2026-04-30,Headset,Acessórios,Aracaju,Ana,3,187.0,561.0
+2026-05-30,Monitor,Eletrônicos,Maceió,Eduarda,4,810.0,3240.0
+2026-04-01,Headset,Acessórios,Salvador,Diego,4,220.0,880.0
+2026-02-26,Headset,Acessórios,Aracaju,Bruno,5,187.0,935.0
+2026-01-08,Cadeira Gamer,Móveis,Aracaju,Carla,4,1080.0,4320.0
+2026-04-30,Headset,Acessórios,Recife,Eduarda,6,220.0,1320.0
+2026-05-25,Notebook,Eletrônicos,Maceió,Ana,4,2975.0,11900.0
+2026-02-16,Headset,Acessórios,Maceió,Carla,2,198.0,396.0
+2026-04-27,Headset,Acessórios,Salvador,Carla,3,220.0,660.0
+2026-03-06,Headset,Acessórios,Maceió,Diego,3,198.0,594.0
+2026-01-14,Notebook,Eletrônicos,Salvador,Bruno,6,2975.0,17850.0
+2026-01-08,Mouse,Acessórios,Recife,Bruno,6,80.0,480.0
+2026-03-03,Notebook,Eletrônicos,Recife,Diego,5,3500.0,17500.0
+2026-04-30,Mouse,Acessórios,Salvador,Carla,5,80.0,400.0
+2026-01-30,Teclado,Acessórios,Recife,Carla,5,127.5,637.5
+2026-03-21,Mouse,Acessórios,João Pessoa,Diego,5,80.0,400.0
+2026-01-20,Headset,Acessórios,João Pessoa,Bruno,6,220.0,1320.0
+2026-01-31,Mouse,Acessórios,João Pessoa,Ana,6,76.0,456.0
+2026-04-05,Mesa Escritório,Móveis,Maceió,Eduarda,5,675.0,3375.0
+2026-05-06,Mesa Escritório,Móveis,Maceió,Diego,1,675.0,675.0
+2026-02-09,Mesa Escritório,Móveis,Aracaju,Bruno,6,675.0,4050.0
+2026-05-04,Cadeira Gamer,Móveis,Aracaju,Diego,5,1020.0,5100.0
+2026-01-23,Cadeira Gamer,Móveis,Salvador,Diego,3,1200.0,3600.0
+2026-04-08,Monitor,Eletrônicos,Salvador,Ana,4,765.0,3060.0
+2026-05-05,Webcam,Eletrônicos,Recife,Carla,3,300.0,900.0
+2026-03-12,Cadeira Gamer,Móveis,João Pessoa,Ana,3,1140.0,3420.0
+2026-04-15,Monitor,Eletrônicos,Aracaju,Eduarda,1,900.0,900.0
+2026-05-06,Monitor,Eletrônicos,Aracaju,Ana,6,810.0,4860.0
+2026-04-14,Mouse,Acessórios,Recife,Carla,3,80.0,240.0
+2026-05-16,Mesa Escritório,Móveis,Salvador,Diego,4,637.5,2550.0
+2026-03-11,Mesa Escritório,Móveis,Salvador,Carla,3,675.0,2025.0
+2026-03-22,Monitor,Eletrônicos,Maceió,Eduarda,1,900.0,900.0
+2026-05-04,Teclado,Acessórios,Salvador,Eduarda,2,150.0,300.0
+2026-03-17,Cadeira Gamer,Móveis,Recife,Carla,1,1200.0,1200.0
+2026-05-17,Teclado,Acessórios,Recife,Carla,3,150.0,450.0
+2026-03-16,Notebook,Eletrônicos,Recife,Diego,1,2975.0,2975.0
+2026-03-14,Mouse,Acessórios,Aracaju,Diego,1,68.0,68.0
+2026-01-14,Webcam,Eletrônicos,Salvador,Diego,3,300.0,900.0
+2026-05-06,Mouse,Acessórios,Maceió,Eduarda,1,72.0,72.0
+2026-05-25,Notebook,Eletrônicos,Salvador,Ana,2,3500.0,7000.0
+2026-04-17,Monitor,Eletrônicos,João Pessoa,Eduarda,1,765.0,765.0
+2026-04-26,Monitor,Eletrônicos,Aracaju,Carla,5,810.0,4050.0
+2026-01-16,Headset,Acessórios,João Pessoa,Ana,3,187.0,561.0
+2026-03-09,Monitor,Eletrônicos,Maceió,Bruno,6,900.0,5400.0
+2026-01-20,Monitor,Eletrônicos,Recife,Ana,2,765.0,1530.0
+2026-05-01,Headset,Acessórios,Salvador,Ana,4,187.0,748.0
+2026-04-27,Monitor,Eletrônicos,Maceió,Bruno,3,855.0,2565.0
+2026-02-20,Cadeira Gamer,Móveis,Aracaju,Ana,6,1020.0,6120.0
+2026-03-10,Monitor,Eletrônicos,Recife,Ana,6,900.0,5400.0
+2026-05-26,Notebook,Eletrônicos,Salvador,Diego,2,3325.0,6650.0
+2026-04-14,Mouse,Acessórios,Salvador,Eduarda,4,76.0,304.0
+2026-01-11,Webcam,Eletrônicos,Aracaju,Carla,4,300.0,1200.0
+2026-02-28,Cadeira Gamer,Móveis,João Pessoa,Eduarda,1,1200.0,1200.0
+2026-05-28,Notebook,Eletrônicos,Maceió,Bruno,6,3325.0,19950.0
+2026-03-13,Webcam,Eletrônicos,Recife,Eduarda,5,270.0,1350.0
+2026-01-24,Headset,Acessórios,Aracaju,Carla,6,198.0,1188.0
+2026-01-27,Headset,Acessórios,Recife,Carla,3,209.0,627.0
+2026-03-15,Headset,Acessórios,Aracaju,Eduarda,6,198.0,1188.0
+2026-03-22,Notebook,Eletrônicos,Salvador,Carla,4,3500.0,14000.0
+2026-01-01,Mouse,Acessórios,João Pessoa,Diego,4,68.0,272.0
+2026-05-13,Headset,Acessórios,Salvador,Eduarda,1,220.0,220.0
+2026-01-14,Webcam,Eletrônicos,Recife,Carla,6,270.0,1620.0
+2026-05-05,Teclado,Acessórios,Maceió,Ana,3,135.0,405.0
+2026-03-21,Monitor,Eletrônicos,João Pessoa,Ana,6,900.0,5400.0
+2026-01-30,Headset,Acessórios,Aracaju,Ana,1,220.0,220.0
+2026-05-11,Teclado,Acessórios,Salvador,Diego,4,142.5,570.0
+2026-04-27,Webcam,Eletrônicos,João Pessoa,Bruno,4,300.0,1200.0
+2026-05-11,Headset,Acessórios,Recife,Ana,2,187.0,374.0
+2026-05-10,Cadeira Gamer,Móveis,Salvador,Ana,4,1140.0,4560.0
+2026-05-31,Cadeira Gamer,Móveis,João Pessoa,Diego,6,1140.0,6840.0
+2026-05-04,Teclado,Acessórios,Salvador,Carla,4,127.5,510.0
+2026-02-18,Headset,Acessórios,Recife,Eduarda,4,209.0,836.0
+2026-01-12,Headset,Acessórios,Salvador,Diego,2,198.0,396.0
+2026-05-07,Headset,Acessórios,Maceió,Bruno,4,220.0,880.0
+2026-01-26,Mesa Escritório,Móveis,João Pessoa,Diego,1,675.0,675.0
+2026-04-15,Notebook,Eletrônicos,Recife,Ana,6,3500.0,21000.0
+2026-04-12,Webcam,Eletrônicos,Maceió,Carla,3,285.0,855.0
+2026-05-19,Headset,Acessórios,Maceió,Eduarda,3,198.0,594.0
+2026-02-28,Mouse,Acessórios,Maceió,Diego,2,76.0,152.0
+2026-04-24,Mouse,Acessórios,Recife,Carla,6,80.0,480.0
+2026-01-15,Notebook,Eletrônicos,Salvador,Carla,1,3325.0,3325.0
+2026-03-04,Mesa Escritório,Móveis,João Pessoa,Diego,4,750.0,3000.0
+2026-01-21,Teclado,Acessórios,João Pessoa,Diego,2,150.0,300.0
+2026-02-06,Monitor,Eletrônicos,Recife,Diego,4,765.0,3060.0
+2026-01-03,Cadeira Gamer,Móveis,Aracaju,Carla,4,1140.0,4560.0
+2026-03-30,Teclado,Acessórios,João Pessoa,Carla,1,135.0,135.0
+2026-04-27,Headset,Acessórios,Salvador,Bruno,6,209.0,1254.0
+2026-03-02,Headset,Acessórios,Aracaju,Eduarda,4,220.0,880.0
+2026-03-17,Mesa Escritório,Móveis,Maceió,Diego,5,712.5,3562.5
+2026-01-13,Cadeira Gamer,Móveis,João Pessoa,Diego,1,1020.0,1020.0
+2026-04-01,Cadeira Gamer,Móveis,Recife,Bruno,2,1020.0,2040.0
+2026-01-25,Cadeira Gamer,Móveis,Maceió,Carla,6,1200.0,7200.0
+2026-04-04,Webcam,Eletrônicos,Recife,Ana,1,255.0,255.0
+2026-02-14,Cadeira Gamer,Móveis,Recife,Bruno,3,1080.0,3240.0
+2026-03-11,Mesa Escritório,Móveis,Recife,Carla,5,637.5,3187.5
+2026-01-30,Webcam,Eletrônicos,Aracaju,Ana,3,285.0,855.0
+2026-05-23,Teclado,Acessórios,Salvador,Ana,2,135.0,270.0
+2026-05-18,Headset,Acessórios,Maceió,Diego,1,209.0,209.0
+2026-05-30,Mesa Escritório,Móveis,Aracaju,Carla,6,712.5,4275.0
+2026-05-01,Mouse,Acessórios,Maceió,Eduarda,6,80.0,480.0
+2026-01-17,Mesa Escritório,Móveis,Aracaju,Carla,5,750.0,3750.0
+2026-01-12,Headset,Acessórios,Maceió,Carla,1,220.0,220.0
+2026-03-02,Webcam,Eletrônicos,João Pessoa,Bruno,1,300.0,300.0
+2026-05-19,Headset,Acessórios,Aracaju,Eduarda,4,209.0,836.0
+2026-05-06,Teclado,Acessórios,João Pessoa,Diego,4,150.0,600.0
+2026-02-25,Cadeira Gamer,Móveis,Aracaju,Diego,1,1140.0,1140.0
+2026-04-05,Monitor,Eletrônicos,João Pessoa,Carla,3,900.0,2700.0
+2026-02-18,Notebook,Eletrônicos,Maceió,Diego,4,3325.0,13300.0
+2026-01-06,Mouse,Acessórios,Maceió,Carla,6,80.0,480.0
+2026-02-22,Monitor,Eletrônicos,Maceió,Eduarda,2,765.0,1530.0
+2026-03-01,Monitor,Eletrônicos,Salvador,Bruno,5,900.0,4500.0
+2026-02-03,Notebook,Eletrônicos,João Pessoa,Carla,3,3500.0,10500.0
+2026-02-03,Teclado,Acessórios,Maceió,Carla,1,150.0,150.0
+2026-01-05,Monitor,Eletrônicos,Recife,Carla,5,855.0,4275.0
+2026-05-15,Notebook,Eletrônicos,Maceió,Ana,2,3150.0,6300.0
+2026-05-12,Webcam,Eletrônicos,João Pessoa,Ana,4,285.0,1140.0
+2026-01-12,Webcam,Eletrônicos,João Pessoa,Carla,5,300.0,1500.0
+2026-01-16,Webcam,Eletrônicos,Aracaju,Diego,6,300.0,1800.0
+2026-05-06,Headset,Acessórios,Aracaju,Ana,6,220.0,1320.0
+2026-02-07,Mouse,Acessórios,Maceió,Bruno,3,68.0,204.0
+2026-05-21,Cadeira Gamer,Móveis,Salvador,Diego,5,1020.0,5100.0
+2026-04-21,Cadeira Gamer,Móveis,Maceió,Ana,4,1020.0,4080.0
+2026-02-28,Monitor,Eletrônicos,Aracaju,Carla,4,810.0,3240.0
+2026-01-25,Webcam,Eletrônicos,Salvador,Diego,4,270.0,1080.0
+2026-04-06,Mesa Escritório,Móveis,Recife,Diego,6,712.5,4275.0
