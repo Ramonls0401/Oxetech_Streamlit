@@ -10,9 +10,7 @@ st.set_page_config(
 
 @st.cache_data
 def carregar_dados():
-    df = pd.read_csv(
-        r"C:\Users\ResTIC16\Documents\streamlit_aula_15\dados\vendas_streamlit_loja.csv"
-    )
+    df = pd.read_csv("dados/vendas_streamlit_loja.csv")
 
     df.columns = df.columns.str.strip()
 
